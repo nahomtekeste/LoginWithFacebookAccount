@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">LOGIN_WITH_FACEBOOK</string>
+    <string name="terms_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="by_signing_up_you_agree_with_our">By signing up, you agree with our</string>
+
+    <string name="desc">   Welcome to this Opera app best ever .</string>
+    <string name="create_a_account">Create a account</string>
+    <string name="sign_up">Register </string>
+    <string name="sign_in">Login </string>
+</resources>
